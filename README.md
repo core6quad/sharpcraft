@@ -1,6 +1,9 @@
 # sharpcraft
 a very simple 2D world generator and browser, kinda interesting to play aground with.
 
+
+<img width="320" alt="Снимок экрана 2025-06-17 в 00 15 43" src="https://github.com/user-attachments/assets/4fb3168f-828d-4b8e-882c-da5bd5651a31" />
+
 ## how to run
 Just get the binary from releases or build from source
 
