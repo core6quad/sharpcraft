@@ -11,6 +11,7 @@ Just get the binary from releases or build from source
 this game has some console commands:
 
 tp X Y - teleport
+
 gen radius - generate chunks aground you in a defined radius
 
 ## Trivia
